@@ -51,7 +51,7 @@ Custo mensal = Consumo mensal × 0,75
 ### 1. Clone o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/JoseaneSabino/consumo-energia.git
 ```
 
 ### 2. Acesse a pasta do projeto
@@ -101,6 +101,8 @@ consumo-energia/
 ```
 
 ## 👩‍💻 Desenvolvido por
+
+**Joseane Sabino**
 
 Projeto desenvolvido como parte de um programa de iniciação em tecnologia.
 
