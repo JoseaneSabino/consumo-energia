@@ -1,12 +1,10 @@
 # ⚡ Calculadora de Consumo Elétrico
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Projeto-black?logo=github)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 ## 📌 Sobre o projeto
-
-A **Calculadora de Consumo Elétrico** é um programa desenvolvido em Python que permite estimar o consumo mensal de energia elétrica de um aparelho.
 
 O sistema utiliza informações simples, como a potência do aparelho e o tempo médio de uso diário, para calcular o consumo aproximado em **kWh por mês**. Também é possível estimar o custo mensal da energia.
 
