@@ -1,6 +1,6 @@
 # ⚡ Calculadora de Consumo Elétrico
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Projeto-black?logo=github)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
@@ -19,7 +19,7 @@ A proposta do projeto é ajudar o usuário a entender quanto um aparelho pode co
 * 🐍 **Python**
 * 💻 **VS Code**
 * 🐙 **GitHub**
-* ⚡ **Cálculo de consumo de energia**
+
 
 ## 🧮 Fórmula utilizada
 
